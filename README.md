@@ -9,5 +9,7 @@ Profesor: Leandro Cepeda
 <br>
 Carrera: Tecnicatura en Desarrollo de Software
 <br>
-División: 3º 1ª. Año 2025
+División: 3º 1ª
+<br>
+Año 2025
 <br>
